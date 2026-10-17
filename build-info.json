@@ -1,0 +1,11 @@
+{
+  "sourceCommit": "585ea756fc0d3fb29d0f9a0b9a3183d502449416",
+  "builtAt": "2026-10-17",
+  "platform": "web-mobile",
+  "changes": [
+    "equipment details and equip controls",
+    "pending drop sales",
+    "larger equipment art",
+    "portal movement fix"
+  ]
+}
